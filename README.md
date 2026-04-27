@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Mayank Maurya
+# Hi 👋, I'm Mayank sharma
 
 ### 💻 Full-Stack Developer 🧠 Problem Solver 🚀 GenAI Enthusiast 📈 DSA Practitioner
 
@@ -12,19 +12,18 @@
 
 ---
 
-Know about my experiences [**Resume |**](https://drive.google.com/file/d/1Qc2_gD-mK542P1OuM3F6O8-tOsG_t9qQ/view?usp=sharing)
-[**Portfolio**](https://mayankmaurya.vercel.app)
+Know about my experiences [**Resume |**](https://drive.google.com/file/d/1AEp1RUTU1ESR_Yh5RlsATxcPlqm_CTyn/view?usp=sharing)
+[**Portfolio**](https://voluble-marigold-54b3e6.netlify.app/)
 
 ## 🏆 Achievements
 
-- ✅ Solved **650+ DSA Problems** across
-  **[LeetCode |](https://leetcode.com/u/mayankkmauryaa/)**
-  **[GeeksforGeeks |](https://auth.geeksforgeeks.org/user/hpmayankqrh2)**
-  **[CodeChef |](https://www.codechef.com/users/mayankmaurya)**
-  **[Codeforces](https://codeforces.com/profile/hpmayankmaurya)**
+- ✅ Solved **400+ DSA Problems** across
+  **[LeetCode |](https://leetcode.com/u/mayanksharma1234321/)**
+  **[GeeksforGeeks |](https://www.geeksforgeeks.org/profile/karanshar6oo7)**
+ 
 
 - 🥇 Completed **Meta Front-End Developer** Professional Certificate
-- 🛠️ Built **GaadiWala**, a full-stack urban mobility platform
+- 🛠️ Built **Ai Assistant**, a full-stack project
 - 🌱 Completed **10+ Industry Job Simulations** (Goldman Sachs, AWS, JPMC)
 
 ---
@@ -106,22 +105,22 @@ border-radius: 12px;
 box-shadow: 0 0 10px rgba(0,0,0,0.2);
 ">
 <div style="margin-bottom: 10px;">
-<a href="mailto:hpmayankmaurya@gmail.com" target="_blank" style="margin: 4px; display: inline-block;">
+<a href="mailto:karansharma90900@gmail.com" target="_blank" style="margin: 4px; display: inline-block;">
 <span style="color:white;font-weight:bold;">Gmail</span>
 </a>
 </div>
 <div style="margin-bottom: 10px;">
-<a href="https://www.linkedin.com/in/mayankmaurya05" target="_blank" style="margin: 4px; display: inline-block;">
+<a href="https://www.linkedin.com/in/mayank-sharma-8555b6313/" target="_blank" style="margin: 4px; display: inline-block;">
 <span style="color:white;font-weight:bold;">LinkedIn</span>
 </a>
 </div>
 <div style="margin-bottom: 10px;">
-<a href="https://leetcode.com/u/mayankkmauryaa" target="_blank" style="margin: 4px; display: inline-block;">
+<a href="https://leetcode.com/u/mayanksharma1234321/" target="_blank" style="margin: 4px; display: inline-block;">
 <span style="color:white;font-weight:bold;">LeetCode</span>
 </a>
 </div>
 <div>
-<a href="https://mayankmaurya.vercel.app" target="_blank" style="margin: 4px; display: inline-block;">
+<a href="https://voluble-marigold-54b3e6.netlify.app/" target="_blank" style="margin: 4px; display: inline-block;">
 <span style="color:white;font-weight:bold;">Portfolio</span>
 
 </a>
@@ -133,21 +132,14 @@ box-shadow: 0 0 10px rgba(0,0,0,0.2);
 <h3>🧠 Competitive Programming Profiles</h3>
 
 <p align="center">
-<a href="https://www.codechef.com/users/mayankmaurya">CodeChef |</a>
-<a href="https://codeforces.com/profile/hpmayankmaurya">Codeforces |</a>
+<a href="https://www.codechef.com/users/plush_youth_92">CodeChef |</a>
+<a href="https://codeforces.com/profile/karansharma90900">Codeforces |</a>
 <a href="https://www.hackerrank.com/hpmayankmaurya">HackerRank |</a>
-<a href="https://auth.geeksforgeeks.org/user/hpmayankqrh2">GeeksforGeeks |</a>
-<a href="https://codepen.io/mayank-maurya-the-solid">CodePen |</a>
-<a href="https://codesandbox.com/mayankkmauryaa">CodeSandbox</a>
+<a href="https://www.geeksforgeeks.org/profile/karanshar6oo7">GeeksforGeeks |</a>
+<a href="https://codepen.io/qnzdgyvp-the-encoder">CodePen |</a>
+
 </p>
 
-## 🚀 My Dev Playground
-
-<div align="center">
-
-### LeetCode Performance
-
-<img src="https://leetcard.jacoblin.cool/mayankkmauryaa?theme=transparent&ext=heatmap" width="60%" />
 
 ---
 
@@ -171,24 +163,17 @@ box-shadow: 0 0 10px rgba(0,0,0,0.2);
 ## 📈 GITHUB ANALYTICS
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkmauryaa&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=mayankkmauryaa&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true" /> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankkmauryaa&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkmauryaa&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" width="49%" /> -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayankkmauryaa&theme=algolia&utcOffset=5.5" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank7505703&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Mayank7505703&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true" /> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank7505703&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank7505703&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" width="49%" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank7505703&theme=algolia&utcOffset=5.5" width="49%" />
 
 </div>
 
 </div>
 
 ---
-
-## 🌟 Featured Projects
-
-- 🚗 [GaadiWala](https://gaadiwala-app.firebaseapp.com/) – Production-grade mobility ecosystem for ride hailing and logistics.
-- 📊 [Rankers](https://rankers-zeta.vercel.app/) – Performance analytics system processing 10k+ LeetCode submissions.
-- 🤖 [APRI](https://apri-beige.vercel.app/login) – AI-powered Resume Analysis & Role Recommendation system.
-- 🛠️ [DevsLane Training](https://drive.google.com/file/d/1WH8cshRpb_vTbg2SybeUYRa4kSiZ-fsQ/view) – Built production-ready frontend components using React.
 
 ---
 
@@ -196,14 +181,7 @@ box-shadow: 0 0 10px rgba(0,0,0,0.2);
 
 💡 Always open for collaboration and interesting project ideas!
 
-- 📫 How to reach me **hpmayankmaurya@gmail.com**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankkmauryaa&label=FANS&color=blue&style=flat" alt="programmerbeast2004 Profile Views" />
-</p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/mayankkmauryaa"> 
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mayankkmauryaa" /></a></p>
+- 📫 How to reach me **karansharma90900@gmail.com@gmail.com**
 
 <!-- Footer Wave -->
 <p align="center">
