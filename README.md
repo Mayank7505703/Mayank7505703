@@ -181,7 +181,7 @@ box-shadow: 0 0 10px rgba(0,0,0,0.2);
 
 💡 Always open for collaboration and interesting project ideas!
 
-- 📫 How to reach me **karansharma90900@gmail.com@gmail.com**
+- 📫 How to reach me **karansharma90900@gmail.com**
 
 <!-- Footer Wave -->
 <p align="center">
