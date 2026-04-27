@@ -1,140 +1,211 @@
-<h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
-<h3 align="center">🚀 MERN Stack Developer | 💻 DSA Enthusiast | 🌱 Open Source Learner</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Problem+Solver;Always+Learning+New+Things;Building+Projects+That+Matter" />
-</p>
-
----
-
-## 🌟 About Me
-
-- 💻 Passionate about building modern full stack web apps  
-- 🚀 MERN Stack Developer  
-- 🧠 Solving DSA problems daily  
-- 🌱 Currently learning Backend + System Design  
-- 🎯 Goal: Become Top Software Engineer  
-- ⚡ Love consistency and growth  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-<table>
-<tr>
+# Hi 👋, I'm Mayank Maurya
 
-<td width="33%">
-<h3>🌐 Personal Portfolio</h3>
-<p>Responsive portfolio website to showcase projects, skills and experience.</p>
-</td>
+### 💻 Full-Stack Developer 🧠 Problem Solver 🚀 GenAI Enthusiast 📈 DSA Practitioner
 
-<td width="33%">
-<h3>⚙️ Backend Dev</h3>
-<p>Authentication, APIs and backend systems using Node.js + Express.</p>
-</td>
+<p>📍 India</p>
 
-<td width="33%">
-<h3>🤖 AI Query Assistant</h3>
-<p>Smart assistant project with TypeScript and API integration.</p>
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%">
-<h3>🎟️ Event Management</h3>
-<p>Online ticket booking system with seat selection features.</p>
-</td>
-
-<td width="33%">
-<h3>📊 Walmart Analysis</h3>
-<p>Sales data visualization and forecasting using Python.</p>
-</td>
-
-<td width="33%">
-<h3>💻 DSA Solutions</h3>
-<p>LeetCode and GFG problem solving in Java.</p>
-</td>
-
-</tr>
-</table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=650%2B+Problems+Solved+on+LeetCode+%26+GFG;Full+Stack+Developer+(MERN+%7C+Next.js);Google+Cloud+%26+GenAI+Certified;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" />
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+Know about my experiences [**Resume |**](https://drive.google.com/file/d/1Qc2_gD-mK542P1OuM3F6O8-tOsG_t9qQ/view?usp=sharing)
+[**Portfolio**](https://mayankmaurya.vercel.app)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mayank7505703&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank7505703&layout=compact&theme=tokyonight" height="180"/>
-</p>
+## 🏆 Achievements
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank7505703&theme=tokyonight"/>
-</p>
+- ✅ Solved **650+ DSA Problems** across
+  **[LeetCode |](https://leetcode.com/u/mayankkmauryaa/)**
+  **[GeeksforGeeks |](https://auth.geeksforgeeks.org/user/hpmayankqrh2)**
+  **[CodeChef |](https://www.codechef.com/users/mayankmaurya)**
+  **[Codeforces](https://codeforces.com/profile/hpmayankmaurya)**
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Mayank7505703/Mayank7505703/blob/output/github-contribution-grid-snake.svg">
-</p>
+- 🥇 Completed **Meta Front-End Developer** Professional Certificate
+- 🛠️ Built **GaadiWala**, a full-stack urban mobility platform
+- 🌱 Completed **10+ Industry Job Simulations** (Goldman Sachs, AWS, JPMC)
 
 ---
 
-## 🏆 Coding Profiles
+## 🧰 Tech Stack
 
-<p align="center">
+<table align="center" width="100%" style="max-width: 950px; text-align: center;">
 
-<a href="https://leetcode.com/u/mayanksharma1234321/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<tr>
+<th colspan="6" style="padding: 12px; font-size: 20px;">🌐 Web Development</th>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TypeScript.svg"
+ height="50" title="TypeScript" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" title="React.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NextJS-Light.svg" height="50" title="Next.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Light.svg" height="50" title="Tailwind CSS" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td>
+</tr>
+
+<tr>
+<th colspan="6" style="padding: 12px; font-size: 20px;">🧠 AI & Gen AI</th>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" title="Python" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" height="50" title="OpenAI" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/GCP-Light.svg" height="50" title="Google Cloud" /></td>
+<td><img src="https://meta-q.cdn.bubble.io/f1740327389123x713161792968389100/n8n%20plugin.png" height="50" width="50" title="n8n Automation" />
+</td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TensorFlow-Dark.svg" height="50" title="TensorFlow" /></td>
+<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORErObBxZDkalSzwN8UaUF68IUdptQoN6Hw&s" height="50" width="50" title="Prompt Engineering" />
+</td>
+</tr>
+
+<tr>
+<th colspan="6" style="padding: 12px; font-size: 20px;">⚙️ Backend & Cloud</th>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" height="50" title="Node.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Light.svg" height="50" title="Express.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Firebase-Light.svg" height="50" title="Firebase" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Light.svg" height="50" title="Vercel" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" title="Postman" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" title="FastAPI" /></td>
+</tr>
+
+<tr>
+<th colspan="6" style="padding: 12px; font-size: 20px;">🗄️ Databases & Core Languages</th>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" height="50" title="MongoDB" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" title="MySQL" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Light.svg" height="50" title="Java" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+ height="50" title="C" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg" height="50" title="Git" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg" height="50" title="GitHub" /></td>
+</tr>
+
+</table>
+
+---
+
+## 🔗 Connect with Me
+
+<table align =center>
+<tr>
+<td width="65%" align="center">
+<img src="cart.gif" alt="Coding Dev" width="100%" />
+</td>
+<td align="center" style="
+padding: 20px;
+background:
+repeating-linear-gradient(90deg, #4CAF50, #4CAF50 40px, #388E3C 40px, #388E3C 42px),
+repeating-linear-gradient(0deg, #4CAF50, #4CAF50 40px, #388E3C 40px, #388E3C 42px);
+background-size: 42px 42px;
+border-radius: 12px;
+box-shadow: 0 0 10px rgba(0,0,0,0.2);
+">
+<div style="margin-bottom: 10px;">
+<a href="mailto:hpmayankmaurya@gmail.com" target="_blank" style="margin: 4px; display: inline-block;">
+<span style="color:white;font-weight:bold;">Gmail</span>
 </a>
-
-<a href="https://www.geeksforgeeks.org/profile/karanshar6oo7">
-<img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</div>
+<div style="margin-bottom: 10px;">
+<a href="https://www.linkedin.com/in/mayankmaurya05" target="_blank" style="margin: 4px; display: inline-block;">
+<span style="color:white;font-weight:bold;">LinkedIn</span>
 </a>
-
-<a href="https://www.linkedin.com/in/mayank-sharma-8555b6313/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
+<div style="margin-bottom: 10px;">
+<a href="https://leetcode.com/u/mayankkmauryaa" target="_blank" style="margin: 4px; display: inline-block;">
+<span style="color:white;font-weight:bold;">LeetCode</span>
 </a>
+</div>
+<div>
+<a href="https://mayankmaurya.vercel.app" target="_blank" style="margin: 4px; display: inline-block;">
+<span style="color:white;font-weight:bold;">Portfolio</span>
 
-</p>
+</a>
+</div>
+</td>
+</tr>
+</table>
 
----
-
-## 🔥 Quote
-
-> Consistency + Hard Work = Success 🚀
-
----
+<h3>🧠 Competitive Programming Profiles</h3>
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+<a href="https://www.codechef.com/users/mayankmaurya">CodeChef |</a>
+<a href="https://codeforces.com/profile/hpmayankmaurya">Codeforces |</a>
+<a href="https://www.hackerrank.com/hpmayankmaurya">HackerRank |</a>
+<a href="https://auth.geeksforgeeks.org/user/hpmayankqrh2">GeeksforGeeks |</a>
+<a href="https://codepen.io/mayank-maurya-the-solid">CodePen |</a>
+<a href="https://codesandbox.com/mayankkmauryaa">CodeSandbox</a>
+</p>
+
+## 🚀 My Dev Playground
+
+<div align="center">
+
+### LeetCode Performance
+
+<img src="https://leetcard.jacoblin.cool/mayankkmauryaa?theme=transparent&ext=heatmap" width="60%" />
+
+---
+
+## 🌱 Currently Learning
+
+- Frontend Performance Optimization & Design Systems
+- Advanced MERN Stack & Next.js 15
+- Workflow Automation (n8n) & AI Agent Integration
+
+---
+
+## 💡 I’m Looking to Collaborate On
+
+- DSA-driven platforms & Competitive Programming tools
+- Open-source Full-Stack & GenAI projects
+- Performance Analytics & Automation Tools
+- Innovative Urban Mobility solutions
+
+---
+
+## 📈 GITHUB ANALYTICS
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkmauryaa&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mayankkmauryaa&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true" /> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankkmauryaa&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkmauryaa&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" width="49%" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayankkmauryaa&theme=algolia&utcOffset=5.5" width="49%" />
+
+</div>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+- 🚗 [GaadiWala](https://gaadiwala-app.firebaseapp.com/) – Production-grade mobility ecosystem for ride hailing and logistics.
+- 📊 [Rankers](https://rankers-zeta.vercel.app/) – Performance analytics system processing 10k+ LeetCode submissions.
+- 🤖 [APRI](https://apri-beige.vercel.app/login) – AI-powered Resume Analysis & Role Recommendation system.
+- 🛠️ [DevsLane Training](https://drive.google.com/file/d/1WH8cshRpb_vTbg2SybeUYRa4kSiZ-fsQ/view) – Built production-ready frontend components using React.
+
+---
+
+## 📬 Let’s Connect
+
+💡 Always open for collaboration and interesting project ideas!
+
+- 📫 How to reach me **hpmayankmaurya@gmail.com**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayankkmauryaa&label=FANS&color=blue&style=flat" alt="programmerbeast2004 Profile Views" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/mayankkmauryaa"> 
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mayankkmauryaa" /></a></p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="ban.png" width="100%" />
 </p>
