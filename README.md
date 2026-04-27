@@ -6,7 +6,7 @@
 
 <p>📍 India</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=650%2B+Problems+Solved+on+LeetCode+%26+GFG;Full+Stack+Developer+(MERN+%7C+Next.js);Google+Cloud+%26+GenAI+Certified;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=400%2B+Problems+Solved+on+LeetCode+%26+GFG;Full+Stack+Developer+(MERN+%7C+Node.js);Google+Cloud+%26+GenAI+Certified;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" />
 
 </div>
 
