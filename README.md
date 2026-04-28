@@ -12,7 +12,7 @@
 
 ---
 
-Know about my experiences [**Resume |**](https://drive.google.com/file/d/1AEp1RUTU1ESR_Yh5RlsATxcPlqm_CTyn/view?usp=sharing)
+Know about my experiences [**Resume |**](https://drive.google.com/file/d/1YlNDQHJOiZXtsyhD7NsOkY26_-a6P96q/view?usp=drive_link)
 [**Portfolio**](https://portfolio-nu-blush-32.vercel.app/)
 
 ## 🏆 Achievements
