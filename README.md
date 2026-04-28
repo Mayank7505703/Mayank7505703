@@ -13,7 +13,7 @@
 ---
 
 Know about my experiences [**Resume |**](https://drive.google.com/file/d/1AEp1RUTU1ESR_Yh5RlsATxcPlqm_CTyn/view?usp=sharing)
-[**Portfolio**](https://effortless-llama-bdda77.netlify.app/)
+[**Portfolio**](https://portfolio-nu-blush-32.vercel.app/)
 
 ## 🏆 Achievements
 
